@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+  <link rel="stylesheet" type="text/css" media="screen" href="/Document/Recorder0/style.css">
+</head>
+<body>
+  <h1>
+    Melhores Momentos Do Meu Dia.
+  </h1>
+  <br>
+  <h2>Manhã:</h2>
+  <p> Neste momento do dia uma das coisas que mais gosto é dormir!<br>Quanto mais tarde eu puder acordar melhor, mas também tomar um café.<br>Me atualizar em relação as noticias e buscar também um pouco de entreterimento.
+    
+  </p>
+  <h3>Tarde:</h3>
+  <br>
+  <h4>Noite:</h4>
+  <br>
+  
+</body>
+</html>
+body {
+  background-color: grey
+}
+h2 {
+  color: black
+  font-size:35px;
+}
+h3 {
+  color: black
+  font-size:35px;
+}
+h4 {
+  color: black>
+  font-size:35px;
